@@ -17,4 +17,3 @@ Git workflows, API interaction, and Markdown documentation
 ## Connect With Me
 - LinkedIn : https://www.linkedin.com/in/namah-bhagat-552568301/
 - Email : <2601730024@krmu.edu.in>
-- [DeveloperPortfolio](https://github.com/NamahBhagat/DeveloperPortfolio) Linux, shell scripts, API data and portfolio website
